@@ -10,8 +10,6 @@
 
 ![Gif app alcoolougasolina](Calculo_IMC.gif)
 
-![Gif app alcoolougasolina](Calculo_TMB.gif)
-
 ## 🚀 Tecnologias utilizadas
 
 - Android Studio
